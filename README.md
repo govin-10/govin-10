@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @govin-10
 - 👀 I’m interested in web dev.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on any projects you might have related to frontend development.
+- 💞️ I’m looking to collaborate on any projects you might have related to web app and development.
 - 📫 How to reach me ...
 			✉ Email: govindatimsina@outlook.com
   
