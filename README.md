@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on any projects you might have related to web or mobile app and development.
 - 📫 How to reach me ...
-			✉ Email: govindatimsina@outlook.com
+			✉ Email: Primary: timsinagovin17@gmail.com
+				  Seconday: govindatimsina@outlook.com
+  				  
   
 
 <!---
